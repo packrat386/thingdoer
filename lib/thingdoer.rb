@@ -1,5 +1,3 @@
-require "thingdoer/version"
-
-module Thingdoer
-  # Your code goes here...
-end
+require 'thingdoer/version'
+require 'thingdoer/do'
+require 'thingdoer/thing'
